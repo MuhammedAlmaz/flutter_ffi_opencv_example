@@ -44,4 +44,4 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
-/ios/opencv2.framework/*
+/ios/opencv2.framework/Versions/A/opencv2
