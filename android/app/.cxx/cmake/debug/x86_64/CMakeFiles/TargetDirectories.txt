@@ -1,0 +1,3 @@
+/Users/muhammedalmaz/workspace/open_cv_example/android/app/.cxx/cmake/debug/x86_64/CMakeFiles/rebuild_cache.dir
+/Users/muhammedalmaz/workspace/open_cv_example/android/app/.cxx/cmake/debug/x86_64/CMakeFiles/edit_cache.dir
+/Users/muhammedalmaz/workspace/open_cv_example/android/app/.cxx/cmake/debug/x86_64/CMakeFiles/my_functions.dir

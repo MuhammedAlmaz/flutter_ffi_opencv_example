@@ -1,0 +1,23 @@
+                Executable : /Users/muhammedalmaz/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake
+arguments : 
+-H/Users/muhammedalmaz/workspace/open_cv_example/android/app
+-DCMAKE_CXX_FLAGS=-frtti -fexceptions -std=c++11
+-DCMAKE_FIND_ROOT_PATH=/Users/muhammedalmaz/workspace/open_cv_example/android/app/.cxx/cmake/debug/prefab/arm64-v8a/prefab
+-DCMAKE_BUILD_TYPE=Debug
+-DCMAKE_TOOLCHAIN_FILE=/Users/muhammedalmaz/Library/Android/sdk/ndk/23.0.7599858/build/cmake/android.toolchain.cmake
+-DANDROID_ABI=arm64-v8a
+-DANDROID_NDK=/Users/muhammedalmaz/Library/Android/sdk/ndk/23.0.7599858
+-DANDROID_PLATFORM=android-16
+-DCMAKE_ANDROID_ARCH_ABI=arm64-v8a
+-DCMAKE_ANDROID_NDK=/Users/muhammedalmaz/Library/Android/sdk/ndk/23.0.7599858
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/muhammedalmaz/workspace/open_cv_example/build/app/intermediates/cmake/debug/obj/arm64-v8a
+-DCMAKE_MAKE_PROGRAM=/Users/muhammedalmaz/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_SYSTEM_VERSION=16
+-DANDROID_STL=c++_shared
+-B/Users/muhammedalmaz/workspace/open_cv_example/android/app/.cxx/cmake/debug/arm64-v8a
+-GNinja
+jvmArgs : 
+
+Build command args:

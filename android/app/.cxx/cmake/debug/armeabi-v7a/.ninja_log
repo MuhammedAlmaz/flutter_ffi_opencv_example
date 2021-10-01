@@ -1,0 +1,20 @@
+# ninja log v5
+1	3526	1631622591	CMakeFiles/open_cv_example.dir/Users/muhammedalmaz/workspace/open_cv_example/open_cv/my_functions.cpp.o	3e3fa752de295b05
+3528	3632	1631622591	/Users/muhammedalmaz/workspace/open_cv_example/build/app/intermediates/cmake/debug/obj/armeabi-v7a/libopen_cv_example.so	6d65f4e9e0e88e98
+2	405	1631622689	/Users/muhammedalmaz/workspace/open_cv_example/build/app/intermediates/cmake/debug/obj/armeabi-v7a/libopen_cv_example.so	6d65f4e9e0e88e98
+0	2666	1631623004	CMakeFiles/my_functions.dir/Users/muhammedalmaz/workspace/open_cv_example/open_cv/my_functions.cpp.o	a505f27e35a2eab9
+2667	2888	1631623004	/Users/muhammedalmaz/workspace/open_cv_example/build/app/intermediates/cmake/debug/obj/armeabi-v7a/libmy_functions.so	658f3dc3002613d9
+2	4155	1631623274	CMakeFiles/my_functions.dir/Users/muhammedalmaz/workspace/open_cv_example/open_cv/my_functions.cpp.o	a505f27e35a2eab9
+4155	4380	1631623274	/Users/muhammedalmaz/workspace/open_cv_example/build/app/intermediates/cmake/debug/obj/armeabi-v7a/libmy_functions.so	9521506cd800a044
+3	2972	1631623345	CMakeFiles/my_functions.dir/Users/muhammedalmaz/workspace/open_cv_example/open_cv/my_functions.cpp.o	a505f27e35a2eab9
+2972	3188	1631623345	/Users/muhammedalmaz/workspace/open_cv_example/build/app/intermediates/cmake/debug/obj/armeabi-v7a/libmy_functions.so	9521506cd800a044
+2	2926	1631623595	CMakeFiles/my_functions.dir/Users/muhammedalmaz/workspace/open_cv_example/open_cv/my_functions.cpp.o	a505f27e35a2eab9
+2927	3145	1631623595	/Users/muhammedalmaz/workspace/open_cv_example/build/app/intermediates/cmake/debug/obj/armeabi-v7a/libmy_functions.so	9521506cd800a044
+2	2395	1631623615	CMakeFiles/my_functions.dir/Users/muhammedalmaz/workspace/open_cv_example/open_cv/my_functions.cpp.o	a505f27e35a2eab9
+2396	2461	1631623615	/Users/muhammedalmaz/workspace/open_cv_example/build/app/intermediates/cmake/debug/obj/armeabi-v7a/libmy_functions.so	9521506cd800a044
+2	2679	1631623734	CMakeFiles/my_functions.dir/Users/muhammedalmaz/workspace/open_cv_example/open_cv/my_functions.cpp.o	a505f27e35a2eab9
+2679	2899	1631623734	/Users/muhammedalmaz/workspace/open_cv_example/build/app/intermediates/cmake/debug/obj/armeabi-v7a/libmy_functions.so	9521506cd800a044
+2	2794	1631624048	CMakeFiles/my_functions.dir/Users/muhammedalmaz/workspace/open_cv_example/open_cv/my_functions.cpp.o	a505f27e35a2eab9
+2794	3013	1631624048	/Users/muhammedalmaz/workspace/open_cv_example/build/app/intermediates/cmake/debug/obj/armeabi-v7a/libmy_functions.so	9521506cd800a044
+3	2355	1631626597	CMakeFiles/my_functions.dir/Users/muhammedalmaz/workspace/open_cv_example/open_cv/my_functions.cpp.o	a505f27e35a2eab9
+2355	2608	1631626597	/Users/muhammedalmaz/workspace/open_cv_example/build/app/intermediates/cmake/debug/obj/armeabi-v7a/libmy_functions.so	9521506cd800a044

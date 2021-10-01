@@ -1,0 +1,7 @@
+Executable : /Users/muhammedalmaz/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/Users/muhammedalmaz/workspace/open_cv_example/android/app/.cxx/cmake/debug/x86
+my_functions
+jvmArgs : 
+

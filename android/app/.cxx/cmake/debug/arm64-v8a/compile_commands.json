@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/muhammedalmaz/workspace/open_cv_example/android/app/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/muhammedalmaz/Library/Android/sdk/ndk/23.0.7599858/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/muhammedalmaz/Library/Android/sdk/ndk/23.0.7599858/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/muhammedalmaz/Library/Android/sdk/ndk/23.0.7599858/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dmy_functions_EXPORTS -I../../../../../../include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -frtti -fexceptions -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/my_functions.dir/Users/muhammedalmaz/workspace/open_cv_example/open_cv/my_functions.cpp.o -c /Users/muhammedalmaz/workspace/open_cv_example/open_cv/my_functions.cpp",
+  "file": "/Users/muhammedalmaz/workspace/open_cv_example/open_cv/my_functions.cpp"
+}
+]

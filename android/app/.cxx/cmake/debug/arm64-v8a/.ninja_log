@@ -1,0 +1,19 @@
+# ninja log v5
+1	3000	1631622594	CMakeFiles/open_cv_example.dir/Users/muhammedalmaz/workspace/open_cv_example/open_cv/my_functions.cpp.o	ea9966e533571f25
+3002	3070	1631622594	/Users/muhammedalmaz/workspace/open_cv_example/build/app/intermediates/cmake/debug/obj/arm64-v8a/libopen_cv_example.so	d8dd4c0e47902e77
+0	2339	1631623006	CMakeFiles/my_functions.dir/Users/muhammedalmaz/workspace/open_cv_example/open_cv/my_functions.cpp.o	5708054097f26a64
+2339	2392	1631623006	/Users/muhammedalmaz/workspace/open_cv_example/build/app/intermediates/cmake/debug/obj/arm64-v8a/libmy_functions.so	360e0d948cebfcab
+3	2464	1631623277	CMakeFiles/my_functions.dir/Users/muhammedalmaz/workspace/open_cv_example/open_cv/my_functions.cpp.o	5708054097f26a64
+2464	2515	1631623277	/Users/muhammedalmaz/workspace/open_cv_example/build/app/intermediates/cmake/debug/obj/arm64-v8a/libmy_functions.so	b5beff104465edbd
+4	2314	1631623348	CMakeFiles/my_functions.dir/Users/muhammedalmaz/workspace/open_cv_example/open_cv/my_functions.cpp.o	5708054097f26a64
+2314	2367	1631623348	/Users/muhammedalmaz/workspace/open_cv_example/build/app/intermediates/cmake/debug/obj/arm64-v8a/libmy_functions.so	b5beff104465edbd
+2	2296	1631623597	CMakeFiles/my_functions.dir/Users/muhammedalmaz/workspace/open_cv_example/open_cv/my_functions.cpp.o	5708054097f26a64
+2297	2350	1631623597	/Users/muhammedalmaz/workspace/open_cv_example/build/app/intermediates/cmake/debug/obj/arm64-v8a/libmy_functions.so	b5beff104465edbd
+1	2080	1631623617	CMakeFiles/my_functions.dir/Users/muhammedalmaz/workspace/open_cv_example/open_cv/my_functions.cpp.o	5708054097f26a64
+2080	2126	1631623617	/Users/muhammedalmaz/workspace/open_cv_example/build/app/intermediates/cmake/debug/obj/arm64-v8a/libmy_functions.so	b5beff104465edbd
+3	2089	1631623736	CMakeFiles/my_functions.dir/Users/muhammedalmaz/workspace/open_cv_example/open_cv/my_functions.cpp.o	5708054097f26a64
+2089	2145	1631623736	/Users/muhammedalmaz/workspace/open_cv_example/build/app/intermediates/cmake/debug/obj/arm64-v8a/libmy_functions.so	b5beff104465edbd
+2	2559	1631624051	CMakeFiles/my_functions.dir/Users/muhammedalmaz/workspace/open_cv_example/open_cv/my_functions.cpp.o	5708054097f26a64
+2559	2616	1631624051	/Users/muhammedalmaz/workspace/open_cv_example/build/app/intermediates/cmake/debug/obj/arm64-v8a/libmy_functions.so	b5beff104465edbd
+5	1684	1631626599	CMakeFiles/my_functions.dir/Users/muhammedalmaz/workspace/open_cv_example/open_cv/my_functions.cpp.o	5708054097f26a64
+1684	1776	1631626599	/Users/muhammedalmaz/workspace/open_cv_example/build/app/intermediates/cmake/debug/obj/arm64-v8a/libmy_functions.so	b5beff104465edbd

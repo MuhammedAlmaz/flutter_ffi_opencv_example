@@ -1,0 +1,24 @@
+{
+  "buildFiles": [
+    "/Users/muhammedalmaz/workspace/open_cv_example/android/app/CMakeLists.txt",
+    "/Users/muhammedalmaz/Library/Android/sdk/ndk/23.0.7599858/build/cmake/android.toolchain.cmake",
+    "/Users/muhammedalmaz/Library/Android/sdk/ndk/23.0.7599858/build/cmake/android-legacy.toolchain.cmake",
+    "/Users/muhammedalmaz/Library/Android/sdk/ndk/23.0.7599858/build/cmake/platforms.cmake",
+    "/Users/muhammedalmaz/Library/Android/sdk/ndk/23.0.7599858/build/cmake/compiler_id.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/muhammedalmaz/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/muhammedalmaz/workspace/open_cv_example/android/app/.cxx/cmake/debug/armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "/Users/muhammedalmaz/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/muhammedalmaz/workspace/open_cv_example/android/app/.cxx/cmake/debug/armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "my_functions-Debug-armeabi-v7a": {
+      "artifactName": "my_functions",
+      "buildCommand": "/Users/muhammedalmaz/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/muhammedalmaz/workspace/open_cv_example/android/app/.cxx/cmake/debug/armeabi-v7a\" my_functions",
+      "abi": "armeabi-v7a",
+      "output": "/Users/muhammedalmaz/workspace/open_cv_example/build/app/intermediates/cmake/debug/obj/armeabi-v7a/libmy_functions.so",
+      "runtimeFiles": [
+        "/Users/muhammedalmaz/workspace/open_cv_example/android/app/src/main/jniLibs/armeabi-v7a/libopencv_java4.so"
+      ]
+    }
+  }
+}
